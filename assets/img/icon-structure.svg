@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" role="img" aria-label="Structure">
+<rect x="8" y="9" width="48" height="11" rx="2" stroke="#0C2340" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="8" y="26" width="22" height="11" rx="2" stroke="#0C2340" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="34" y="26" width="22" height="11" rx="2" fill="#14A3A0" fill-opacity=".16" stroke="#0C2340" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="8" y="43" width="48" height="11" rx="2" stroke="#0C2340" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M19 20v6M45 20v6M19 37v6M45 37v6" stroke="#C7A24B" stroke-width="1.7" stroke-linecap="round"/></svg>

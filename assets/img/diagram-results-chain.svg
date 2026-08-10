@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 890 120" fill="none" role="img" aria-label="Results chain from inputs to impact"><style>
+@media (prefers-reduced-motion: no-preference){
+  .dash{stroke-dasharray:6 8;animation:flow 4s linear infinite}
+  @keyframes flow{to{stroke-dashoffset:-56}}
+  .pulse{animation:pulse 3.2s ease-in-out infinite}
+  @keyframes pulse{0%,100%{opacity:.4}50%{opacity:1}}
+  .rise{animation:rise 5s ease-in-out infinite}
+  @keyframes rise{0%,100%{transform:translateY(0)}50%{transform:translateY(-7px)}}
+  .drawline{stroke-dasharray:900;stroke-dashoffset:900;animation:draw 2.6s cubic-bezier(.22,.61,.36,1) forwards}
+  @keyframes draw{to{stroke-dashoffset:0}}
+}
+</style><rect x="20" y="30" width="150" height="64" rx="3" fill="#0C2340" fill-opacity=".08" stroke="#0C2340" stroke-opacity=".5"/><text x="95.0" y="69" text-anchor="middle" font-family="Archivo,sans-serif" font-size="16" font-weight="600" fill="#0C2340">Inputs</text><path class="dash" d="M175 62 h14" stroke="#0C2340" stroke-opacity=".5" stroke-width="1.6"/><rect x="194" y="30" width="150" height="64" rx="3" fill="#0C2340" fill-opacity=".08" stroke="#0C2340" stroke-opacity=".5"/><text x="269.0" y="69" text-anchor="middle" font-family="Archivo,sans-serif" font-size="16" font-weight="600" fill="#0C2340">Activities</text><path class="dash" d="M349 62 h14" stroke="#0C2340" stroke-opacity=".5" stroke-width="1.6"/><rect x="368" y="30" width="150" height="64" rx="3" fill="#0C2340" fill-opacity=".08" stroke="#0C2340" stroke-opacity=".5"/><text x="443.0" y="69" text-anchor="middle" font-family="Archivo,sans-serif" font-size="16" font-weight="600" fill="#0C2340">Outputs</text><path class="dash" d="M523 62 h14" stroke="#0C2340" stroke-opacity=".5" stroke-width="1.6"/><rect x="542" y="30" width="150" height="64" rx="3" fill="#14A3A0" fill-opacity=".18" stroke="#14A3A0" stroke-opacity=".5"/><text x="617.0" y="69" text-anchor="middle" font-family="Archivo,sans-serif" font-size="16" font-weight="600" fill="#0C2340">Outcomes</text><path class="dash" d="M697 62 h14" stroke="#0C2340" stroke-opacity=".5" stroke-width="1.6"/><rect x="716" y="30" width="150" height="64" rx="3" fill="#C7A24B" fill-opacity=".22" stroke="#C7A24B" stroke-opacity=".5"/><text x="791.0" y="69" text-anchor="middle" font-family="Archivo,sans-serif" font-size="16" font-weight="600" fill="#0C2340">Impact</text></svg>

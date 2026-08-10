@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 670 366" fill="none" role="img" aria-label="Two domains meeting on one delivery standard"><style>
+@media (prefers-reduced-motion: no-preference){
+  .dash{stroke-dasharray:6 8;animation:flow 4s linear infinite}
+  @keyframes flow{to{stroke-dashoffset:-56}}
+  .pulse{animation:pulse 3.2s ease-in-out infinite}
+  @keyframes pulse{0%,100%{opacity:.4}50%{opacity:1}}
+  .rise{animation:rise 5s ease-in-out infinite}
+  @keyframes rise{0%,100%{transform:translateY(0)}50%{transform:translateY(-7px)}}
+  .drawline{stroke-dasharray:900;stroke-dashoffset:900;animation:draw 2.6s cubic-bezier(.22,.61,.36,1) forwards}
+  @keyframes draw{to{stroke-dashoffset:0}}
+}
+</style><circle cx="250" cy="180" r="156" fill="#0C2340" fill-opacity=".1" stroke="#0C2340" stroke-opacity=".45"/><circle class="pulse" cx="420" cy="180" r="156" fill="#14A3A0" fill-opacity=".13" stroke="#14A3A0" stroke-opacity=".75"/><text x="160" y="172" text-anchor="middle" font-family="Archivo,sans-serif" font-size="19" font-weight="700" fill="#0C2340">Management</text><text x="160" y="196" text-anchor="middle" font-family="Archivo,sans-serif" font-size="19" font-weight="700" fill="#0C2340">Consulting</text><text x="510" y="172" text-anchor="middle" font-family="Archivo,sans-serif" font-size="19" font-weight="700" fill="#0C2340">Digital</text><text x="510" y="196" text-anchor="middle" font-family="Archivo,sans-serif" font-size="19" font-weight="700" fill="#0C2340">Transformation</text><text x="335" y="174" text-anchor="middle" font-family="IBM Plex Mono,monospace" font-size="12.5" letter-spacing="1.6" fill="#0C2340">ONE DELIVERY</text><text x="335" y="193" text-anchor="middle" font-family="IBM Plex Mono,monospace" font-size="12.5" letter-spacing="1.6" fill="#0C2340">STANDARD</text></svg>

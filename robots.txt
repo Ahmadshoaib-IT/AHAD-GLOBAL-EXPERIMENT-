@@ -1,0 +1,6 @@
+# robots.txt — https://www.ahadglobalconsulting.com
+User-agent: *
+Allow: /
+Disallow: /404.html
+
+Sitemap: https://www.ahadglobalconsulting.com/sitemap.xml

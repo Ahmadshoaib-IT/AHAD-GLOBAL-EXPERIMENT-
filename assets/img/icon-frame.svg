@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" role="img" aria-label="Frame">
+<circle cx="32" cy="11" r="4.5" stroke="#0C2340" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/><path d="M30 15 L17 53 M34 15 L47 53" stroke="#0C2340" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M21 41 H43" stroke="#C7A24B" stroke-width="3.2" stroke-linecap="round"/>
+<path d="M11 58 H53" stroke="#0C2340" stroke-opacity=".28" stroke-dasharray="2 5"/></svg>
